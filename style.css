@@ -1067,3 +1067,6 @@ a:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+#contact {
+  border-top: 3px solid var(--orange);
+}
